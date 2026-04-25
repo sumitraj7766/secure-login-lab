@@ -4,6 +4,18 @@ A secure authentication system built using **Flask**, demonstrating real-world c
 
 This project simulates how real backend systems protect user login APIs from brute force and abuse.
 
+
+<img width="1214" height="439" alt="SECURE LOGIN SYSTEM " src="https://github.com/user-attachments/assets/31925e7e-2e68-4099-b8c8-16dfd1e480fc" />
+
+<img width="1214" height="439" alt="SECURE LOGIN SYSTEM " src="https://github.com/user-attachments/assets/a2934f6a-f776-4395-a106-65c4441390c1" />
+
+<img width="1214" height="439" alt="SECURE LOGIN SYSTEM " src="https://github.com/user-attachments/assets/9733a59b-968e-45ad-8a34-694b1aa6203a" />
+
+<img width="1214" height="439" alt="SECURE LOGIN SYSTEM " src="https://github.com/user-attachments/assets/78b6ed45-709b-409f-ae18-e9b463b833cb" />
+
+
+
+
 ---
 
 # 🚀 Features
