@@ -1,0 +1,3 @@
+SECRET_KEY = "mysecretkey123"
+
+MODE = "NORMAL"  # NORMAL / HACKING / DEFENCE

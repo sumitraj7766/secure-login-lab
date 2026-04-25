@@ -1,0 +1,12 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 781-367-368
+INFO:werkzeug: * Detected change in 'C:\\Users\\dell\\Desktop\\secure-login-lab\\config.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 781-367-368
+INFO:werkzeug: * Detected change in 'C:\\Users\\dell\\Desktop\\secure-login-lab\\security.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 781-367-368
+INFO:werkzeug: * Detected change in 'C:\\Users\\dell\\Desktop\\secure-login-lab\\auth.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 781-367-368
+INFO:werkzeug: * Detected change in 'C:\\Users\\dell\\Desktop\\secure-login-lab\\app.py', reloading
